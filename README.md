@@ -12,9 +12,10 @@
 ---
 
 ###  About Me
--  I’m a **Software Developer at Cognizant** based in Indore, India.
--  I work on both **front-end** and **back-end** projects, crafting user-friendly and visually appealing web apps.
--  Passionate about **AR/VR**, **AI Based New Automations**, and creative **Python-based projects**.
+-  I’m a **Software Developer at Cognizant** based in  Pune, MH, India.
+-  I work on both **front-end** and **back-end** projects, crafting user-friendly and visually appealing web apps, also i am eager to learning new technologies.
+-  Passionate about **AR/VR**, **AI Based New Automations**, and creative **Python-based projects**, **Some creative products designing**.
+-  Also  I manage some of the social media work as an freelancer too.
 
 ---
 --- Soon Launching 
@@ -26,14 +27,14 @@
 ![68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966](https://github.com/user-attachments/assets/7551b5c5-4faa-45bf-9212-6762945d5edd)
 
 
-###  Featured Projects
+###  Featured Projects - Ongoing Projects 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **pars.com** | A shopping website | HTML |
+| **Chatbot- flow-builder** | An  ai agent | AI-based |
 | **landing-website** | Responsive landing page | HTML |
-| **8-ball-Pool-Game-** | Python REST_API-based game | Python |
-| **Mario-** | Game project in Python | Python |
-| **AR/VR Projects** | Semester practicals in Swift | Swift |
+| **Laundary Website** | An simple laundary website for a client| HTML |
+| **Amazon-Clone** | Amazon- clone ecommerce website | react.js |
+| **Clothing Brand Website** | An Upcoming project that is going to launch soon  | HTML,CSS, JS< React.js, Node.js, RestAPi, Razorpay, And some ai based technologies |
 
 See more in the [Repositories](https://github.com/edithkaren?tab=repositories) section.
 
