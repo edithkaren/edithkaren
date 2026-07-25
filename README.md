@@ -294,7 +294,7 @@ I regularly share content on
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://instagram.com/ft.techrudra">
+<a href="https://instagram.com/techrudra.ai">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
