@@ -1,255 +1,319 @@
-## Hi there 👋
-<h1 align="center">Hi there, I'm Rudraksh Paliwal 👋 ([@edithkaren])</h1>
+<div align="center">
 
-![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f34392f63382f62393439633836613537306466303761373434306162653339343035383334632e676966](https://github.com/user-attachments/assets/fc00c25b-be0f-4612-bfa2-f6ddbd0fed5c)
+# 👋 Hey, I'm Rudraksh Paliwal
 
-Hi, I'm Rudraksh Paliwal
-🚀 AI Software Engineer | Full-Stack Developer | UI/UX Designer | AI Automation Builder | Startup Enthusiast | Content Creator
+### 🚀 AI Software Engineer • Full Stack Developer • UI/UX Designer • AI Automation Builder • Startup Founder
 
-I'm passionate about building AI-powered products, modern web applications, and intelligent automation systems that solve real-world business problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Building+AI+Products+%F0%9F%A4%96;Building+Startups+%F0%9F%9A%80;Creating+Beautiful+Digital+Experiences+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%E2%9A%A1;Building+In+Public+%F0%9F%94%A5" />
 
-I enjoy transforming ideas into scalable digital products by combining software engineering, product design, AI, and business thinking.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff"/>
 
-Currently, I'm building in public while working on AI startups, SaaS products, and automation workflows.
+</div>
 
-🌟 About Me
-💻 AI Software Engineer & Full-Stack Developer
-🎨 UI/UX & Product Designer
-🤖 AI Automation Developer
-🚀 Startup Builder
-📱 Content Creator (AI, Tech & Startups)
-🎥 Motion Graphics & Video Editor
-💼 Freelancer helping businesses build digital products
-🌱 Constantly learning AI, Product Design & Business
-💡 What I Do
-🤖 AI Development
-AI Web Applications
-AI Agents
-LLM Integrations
-Prompt Engineering
-AI Chatbots
-RAG Applications
-AI Workflow Automation
-AI SaaS Products
-💻 Full-Stack Development
-Modern Responsive Websites
-SaaS Platforms
-Admin Dashboards
-Landing Pages
-REST APIs
-Authentication Systems
-Database Design
-Real-Time Applications
-🎨 UI/UX Design
-Product Design
-Mobile App Design
-Website Design
-Dashboard Design
-Wireframing
-Prototyping
-Design Systems
-User Experience Optimization
-⚡ AI Automation
+---
 
-Building intelligent workflows using
+# 🚀 About Me
 
-OpenAI
-Google Gemini
-Claude
-Make
-Zapier
-n8n
-AI APIs
+I'm an **AI Software Engineer**, **Full Stack Developer**, **UI/UX Designer**, **AI Automation Builder**, **Freelancer**, and **Startup Enthusiast** from India.
 
-Automating
+I love building modern AI-powered products that solve real-world problems.
 
-Lead Generation
-Email Outreach
-CRM Workflows
-Content Creation
-Business Operations
-🎬 Creative Services
-Motion Graphics
-Video Editing
-Brand Identity
-Social Media Creatives
-Promotional Videos
-Product Launch Videos
-Reels & Shorts
-Marketing Assets
-🛠️ Tech Stack
-Languages
-JavaScript
-TypeScript
-Python
-Java
-HTML5
-CSS3
-Frontend
-React
-Next.js
-Tailwind CSS
-Bootstrap
-Framer Motion
-GSAP
-Three.js
-Shadcn/UI
-Backend
-Node.js
-Express.js
-REST APIs
-Firebase
-Supabase
-PostgreSQL
-MongoDB
-Prisma
-AI & Machine Learning
-OpenAI API
-Google Gemini
-Claude AI
-Prompt Engineering
-LangChain (learning)
-AI Agents
-AI Automation
-ElevenLabs
-Perplexity AI
-Design
-Figma
-Canva
-Adobe Photoshop
-Adobe Illustrator
-Adobe Firefly
-Video & Motion
-Premiere Pro
-After Effects
-CapCut
-Dev Tools
-Git
-GitHub
-Vercel
-Railway
-Docker (Basics)
-VS Code
-Postman
-🚀 Featured Projects
-🤖 AI Startup Builder| JARVIS| ULTRON| AI AUTOMATION AGENTS | AI EMPLOYEES FOR MY STARTUP | CALLING AGENT | LIVE-TRAFFIC PREDICTION AGENT
+Currently building products in public while helping startups and businesses with AI, websites, branding, and automation.
 
-🤖AI Startup Builder
-Generate startup ideas, branding, business models, PRDs, and product roadmaps using AI.
+---
 
-🍔 Food Delivery Platform
+# 💼 What I Do
 
-A real-time food ordering platform with authentication, payments, order tracking, restaurant management, and admin dashboard.
+## 🤖 AI Development
 
-👕 TRAPT
+- AI Applications
+- AI Agents
+- AI Chatbots
+- Prompt Engineering
+- OpenAI Integrations
+- Gemini Integrations
+- Claude AI
+- AI SaaS
+- AI Workflow Automation
 
-An omnichannel fashion commerce platform with:
+---
 
-Online Store
-Offline POS
-Inventory Management
-Order Tracking
-Payments
-AI Fashion Recommendations
-Admin Dashboard
-🌐 Freelancing Portfolio Platform
+## 💻 Full Stack Development
 
-Professional portfolio showcasing:
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- REST APIs
+- Firebase
+- Supabase
+- PostgreSQL
+- MongoDB
+- Authentication
+- Admin Dashboards
 
-UI/UX Design
-Website Development
-AI Automation
-Branding
-Motion Graphics
-Product Design
-🤖 AI Automation Workflows
+---
 
-Built automations for:
+## 🎨 Product Design
 
-Lead generation
-Social media content
-AI assistants
-Business productivity
-Workflow optimization
-📈 Startup Products
+- UI/UX Design
+- Wireframes
+- Prototypes
+- Mobile Apps
+- SaaS Design
+- Landing Pages
+- Design Systems
 
-Currently building AI-powered products focused on:
+---
 
-Productivity
-E-commerce
-Automation
-SaaS
-Founder tools
-Business intelligence
-💼 Freelance Services
+## 🎬 Creative
 
-✔ UI/UX Design
+- Motion Graphics
+- Video Editing
+- Branding
+- Social Media Creatives
+- Marketing Assets
+- Product Launch Videos
 
-✔ Website Development
+---
 
-✔ Full-Stack Development
+# 🛠 Tech Stack
 
-✔ Landing Pages
+## Languages
 
-✔ AI Automation
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
 
-✔ AI Chatbots
+## Frontend
 
-✔ Branding
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
 
-✔ Motion Graphics
+## Backend
 
-✔ Video Editing
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres" />
+</p>
 
-✔ Social Media Creatives
+## AI
 
-✔ Product Design
+<p>
+<img src="https://skillicons.dev/icons?i=openai" />
+</p>
 
-✔ Startup MVP Development
+- OpenAI
+- Google Gemini
+- Claude
+- Prompt Engineering
+- AI Agents
+- AI Automation
+- ElevenLabs
 
-🎯 Currently Building
+## Design
 
-🚀 Building in Public
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
 
-Launching and documenting:
+- Canva
+- Adobe Firefly
 
-AI Products
-SaaS Platforms
-Startup Ideas
-Automation Systems
-Design Systems
-Full-Stack Projects
-Business Experiments
-🌱 Currently Learning
-Advanced AI Agents
-Multi-Agent Systems
-Cloud Architecture
-AWS
-Scalable Backend Systems
-DevOps
-Product Growth
-Startup Strategy
-📊 GitHub Goals
-Open Source Contributions
-Production-Ready Projects
-AI SaaS Products
-Scalable Architectures
-Developer Community Building
-📱 Connect With Me
+## Dev Tools
 
-📧 Email: rudrakshpaliwal21@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/rudraksh-paliwal-316b7818b
-
-🐙 GitHub: https://github.com/edithkaren
-
-📸 Instagram: https://instagram.com/ft.techrudra
-
-🌐 Portfolio: https://animated-portfolio-rp.vercel.app  , https://freelancer-portfolio-jet.vercel.app 
-
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/edithkaren" width="100" height="100" alt="Profile picture"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Startup Builder
+
+Generate
+
+- Startup Ideas
+- PRDs
+- Business Models
+- Branding
+- Roadmaps
+
+---
+
+## 🍔 Food Delivery Platform
+
+Features
+
+- Authentication
+- Restaurant Dashboard
+- Live Orders
+- Live Tracking
+- Payments
+- Admin Dashboard
+- Inventory
+
+---
+
+## 👕 TRAPT
+
+Omnichannel Clothing Platform
+
+- Online Store
+- Offline POS
+- Inventory Sync
+- Order Tracking
+- Wishlist
+- AI Recommendations
+- Admin Panel
+
+---
+
+## 🌐 Freelancer Portfolio
+
+Services
+
+- UI/UX Design
+- Full Stack Development
+- AI Automation
+- Branding
+- Motion Graphics
+- Startup MVPs
+
+---
+
+## 🤖 AI Automation
+
+Automation Solutions
+
+- Lead Generation
+- CRM
+- Email
+- AI Chatbots
+- Social Media
+- Business Workflows
+
+---
+
+# 💼 Freelance Services
+
+| Service | Status |
+|----------|--------|
+| 🎨 UI/UX Design | ✅ Available |
+| 💻 Website Development | ✅ Available |
+| 🚀 Full Stack Development | ✅ Available |
+| 🤖 AI Automation | ✅ Available |
+| 🧠 AI Chatbots | ✅ Available |
+| 🎬 Motion Graphics | ✅ Available |
+| 🎥 Video Editing | ✅ Available |
+| 🎨 Branding | ✅ Available |
+| 📱 Landing Pages | ✅ Available |
+
+---
+
+# 🚀 Currently Building
+
+- AI SaaS Products
+- Startup Tools
+- AI Automations
+- E-commerce Products
+- Build in Public Series
+- Personal Brand
+- Open Source Projects
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edithkaren&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edithkaren&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edithkaren&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edithkaren&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=edithkaren&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents
+- AWS
+- Docker
+- Kubernetes
+- DevOps
+- LangChain
+- MCP
+- RAG
+- System Design
+
+---
+
+# 📢 Content Creator
+
+I regularly share content on
+
+- 🤖 Artificial Intelligence
+- 💻 Web Development
+- 🚀 Startup Building
+- 🎨 UI/UX Design
+- ⚡ AI Automations
+- 📈 Productivity
+- 🎥 Tech Reels
+
+---
+
+# 🌎 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rudraksh-paliwal-316b7818b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rudrakshpaliwal21@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/edithkaren">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/ft.techrudra">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"I don't just write code—I build products, automate businesses, and transform ideas into impactful digital experiences."**
+
+---
+
+<div align="center">
+
+## 🚀 Building AI • Building Startups • Building the Future
+
+⭐ If you like my work, consider following me and starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=120&section=footer"/>
+
+</div>
